@@ -1,0 +1,5 @@
+1. Artificial Neural Network (ANN)
+2. conventional Extreme 
+3. Learning Machine (ELM)
+4. Support Vector Machine (SVM)
+5. K-Nearest Neighbor algorithm (k-NN).
